@@ -86,7 +86,7 @@ nav{
 
 }
 nav > a{
-    color: var(--cor5);
+    color: var(--cor4);
     text-decoration: none;
     padding: 10px;
     font-weight: bold;
